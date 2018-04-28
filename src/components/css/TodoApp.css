@@ -1,0 +1,37 @@
+*{
+	box-sizing: border-box;
+}
+
+.todoAppHeader{
+	height: 80px;
+	margin: 0px auto;
+	padding: 0px;
+	color: #00ACC1;
+	text-align: center;
+	font-family: arial;
+	font-size: 30px;
+}
+
+.countDisplay{
+	font-family: arial;
+	font-size: 20px;
+	text-align: right;
+	padding-right: 7%;
+	padding-bottom: 5px;
+	color: #00838F;
+}
+
+.listBoard{
+	margin: 0px auto 50px auto;
+	width: 90%;
+	height: 680px;
+	background-color: #E0F7FA;
+	overflow: auto;
+	border-radius: 50px;
+}
+
+.listInput{
+	width: 500px;
+	height: 50px;
+	margin: auto;
+}
